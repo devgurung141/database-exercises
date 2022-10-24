@@ -32,6 +32,7 @@ ORDER BY release_date ASC;
 
 /*
 a.The name of all albums by Pink Floyd
+
 The Dark Side of the Moon
 The Wall
 
@@ -46,7 +47,28 @@ The Immaculate Collection
 
 e. Which albums had less than 20 million certified sales
 
+"Grease: The Original Soundtrack from the Motion Picture"
+"Bad"
+"Sgt. Pepper's Lonely Hearts Club Band"
+"Dirty Dancing"
+"Let's Talk About Love"
+"Dangerous"
+"The Immaculate Collection"
+"Abbey Road"
+"Born in the U.S.A."
+"Brothers in Arms"
+"Titanic: Music from the Motion Picture"
+"Nevermind"
+"The Wall"
+
 f. All the albums with a genre of "Rock". Why do these query results not include albums with a genre of "Hard rock" or "Progressive rock"?
+
+Sgt. Pepper's Lonely Hearts Club Band"
+"1"
+"Abbey Road"
+"Born in the U.S.A."
+"Supernatural"
+
 because Rock is categorized as a separate genre.
 
 */
