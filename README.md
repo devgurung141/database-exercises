@@ -1,1 +1,1 @@
-This is a sample for database excerise.
+This is a sample.
